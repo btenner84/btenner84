@@ -1,4 +1,3 @@
-⏺ Done. Updated your GitHub README to:
 
   # Ben Tenner
 
